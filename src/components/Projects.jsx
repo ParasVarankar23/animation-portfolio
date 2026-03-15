@@ -55,7 +55,7 @@ const projects = [
     {
         title: "Animation Portfolio",
         desc: "A premium animated developer portfolio with modern UI, smooth interactions, and advanced visual effects, currently under development.",
-        link: "https://animation-portfolio.vercel.app/",
+        link: "https://animation-portfolio-azure.vercel.app/",
         tag: "Animated Portfolio",
     },
 ];
