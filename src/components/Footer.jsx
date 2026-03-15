@@ -19,7 +19,7 @@ export default function Footer() {
                         Paras<span className="text-cyan-400">.</span>
                     </h3>
                     <p className="text-gray-400 text-sm mt-2">
-                        Software Developer • Frontend Developer
+                        Software Developer • MERN Stack Developer
                     </p>
                 </motion.div>
 

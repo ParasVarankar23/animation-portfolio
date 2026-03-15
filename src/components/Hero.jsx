@@ -1,8 +1,8 @@
 "use client";
 
-import Image from "next/image";
 import { motion } from "framer-motion";
 import { ArrowRight, Download } from "lucide-react";
+import Image from "next/image";
 
 export default function Hero() {
     return (
@@ -30,7 +30,7 @@ export default function Hero() {
                     className="space-y-7"
                 >
                     <div className="inline-flex items-center rounded-full border border-cyan-400/20 bg-white/5 px-4 py-2 text-sm text-cyan-300 backdrop-blur-md">
-                        Software Developer • Frontend Developer
+                        Software Developer • MERN Stack Developer
                     </div>
 
                     <div className="space-y-4">
