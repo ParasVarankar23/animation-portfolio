@@ -58,6 +58,78 @@ const projects = [
         link: "https://animation-portfolio-azure.vercel.app/",
         tag: "Animated Portfolio",
     },
+    {
+        title: "Puzzle Game",
+        desc: "A modern sliding puzzle game with timer, move counter, best score tracking, and a clean responsive interface built with Next.js and Tailwind CSS.",
+        link: "https://puzzle-sandy-kappa.vercel.app/",
+        tag: "Game / Puzzle",
+    },
+    {
+        title: "Rock Paper Scissors",
+        desc: "An interactive Rock Paper Scissors game where players challenge the computer with a smooth and responsive experience.",
+        link: "https://rockerpaperscissor.vercel.app/",
+        tag: "Game / Fun",
+    },
+    {
+        title: "Snake Game",
+        desc: "A classic Snake game featuring score tracking, responsive controls, and a modern web interface.",
+        link: "https://snake-game-one-orcin.vercel.app/",
+        tag: "Game / Arcade",
+    },
+    {
+        title: "Tic Tac Toe",
+        desc: "A simple and enjoyable Tic Tac Toe game with a clean design and two-player gameplay.",
+        link: "https://tictactoe-games-eight.vercel.app/",
+        tag: "Game / Board",
+    },
+    {
+        title: "Sister Birthday Website",
+        desc: "A personalized birthday website with beautiful animations and interactive elements for memorable celebrations.",
+        link: "https://sanvi-ivory.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
+        title: "CodeSync Merge",
+        desc: "A modern diff and merge editor with syntax highlighting, comparison tools, merge actions, copy functionality, and dark/light themes.",
+        link: "https://codesyncmerge.vercel.app/",
+        tag: "Developer Tool",
+    },
+    {
+        title: "CodeVault Editor",
+        desc: "A versatile online editor where users can paste, write, and manage code, notes, or any text with a clean and developer-friendly interface.",
+        link: "https://codevault-blue.vercel.app/",
+        tag: "Developer Tool / Editor",
+    },
+    {
+        title: "Agastya Park",
+        desc: "A modern website showcasing park information, facilities, and visitor-friendly content with an elegant interface.",
+        link: "https://agastya-park.vercel.app/",
+        tag: "Business Website",
+    },
+    {
+        title: "Shree Morya",
+        desc: "A professionally designed responsive website built to showcase services and information with modern layouts.",
+        link: "https://shreemorya.vercel.app/",
+        tag: "Business Website",
+    },
+    {
+        title: "Girlfriend Birthday Wishes",
+        desc: "A beautifully designed romantic website featuring heartfelt messages, interactive elements, and elegant animations.",
+        link: "https://girlfriend-wishes.vercel.app/",
+        tag: "Love / Creative Website",
+    },
+    {
+        title: "Shravan Portfolio",
+        desc: "A modern and responsive personal portfolio website showcasing skills, projects, and experience with clean layouts and interactive sections.",
+        link: "https://shravan-portfolio-mu.vercel.app/",
+        tag: "Portfolio Website",
+    },
+    {
+        title: "Vision Academy",
+        desc: "An educational platform designed for students and institutes, providing organized content, resources, and a user-friendly learning experience.",
+        link: "https://visionacademy-iota.vercel.app/",
+        tag: "Educational Platform",
+    },
 ];
 
 export default function Projects() {
