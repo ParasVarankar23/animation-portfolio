@@ -130,6 +130,23 @@ const projects = [
         link: "https://visionacademy-iota.vercel.app/",
         tag: "Educational Platform",
     },
+    {
+        title: "Gym Management Platform",
+        desc: "A modern fitness and gym management website designed to provide workout plans, fitness information, and a smooth user experience with responsive layouts.",
+        link: "https://gym-two-puce.vercel.app/",
+        tag: "Fitness / Gym Website",
+    },
+    {
+        title: "PCACS Website",
+        desc: "A modern and responsive website inspired by Pillai College of Arts, Commerce & Science, featuring academic sections, course information, and an organized user experience.",
+        link: "https://pcacs.vercel.app/",
+        tag: "Educational Website",
+    }, {
+        title: "Janhavi Portfolio",
+        desc: "A modern and elegant personal portfolio website showcasing skills, projects, achievements, and professional experience with responsive layouts and smooth interactions.",
+        link: "https://janhavi-tau.vercel.app/",
+        tag: "Portfolio Website",
+    },
 ];
 
 export default function Projects() {
