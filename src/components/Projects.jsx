@@ -142,7 +142,7 @@ const projects = [
         link: "https://pcacs.vercel.app/",
         tag: "Educational Website",
     }, {
-        title: "Janhavi Portfolio",
+        title: "Janhavi Beer Shop",
         desc: "A modern and elegant personal portfolio website showcasing skills, projects, achievements, and professional experience with responsive layouts and smooth interactions.",
         link: "https://janhavi-tau.vercel.app/",
         tag: "Portfolio Website",
