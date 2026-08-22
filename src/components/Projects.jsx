@@ -17,6 +17,36 @@ const projects = [
         tag: "Dashboard / Clinic Panel",
     },
     {
+        title: "Ganpati Bappa Morya Website",
+        desc: "A festive and engaging website created to celebrate Ganpati with a polished visual experience.",
+        link: "https://ganpati-phi.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
+        title: "Voom Paints Billing",
+        desc: "A billing interface for managing paint products, customer transactions, and business records.",
+        link: "https://voompaints-billing-ashy.vercel.app/",
+        tag: "Billing / Business Tool",
+    },
+    {
+        title: "Paras Caffee",
+        desc: "A welcoming cafe website designed to showcase the brand, offerings, and customer experience.",
+        link: "https://paras-caffee.vercel.app/",
+        tag: "Cafe Website",
+    },
+    {
+        title: "Varankar Buildings",
+        desc: "A professional business website presenting building and construction-related services.",
+        link: "https://varankar-buildings.vercel.app/",
+        tag: "Business Website",
+    },
+    {
+        title: "Independence Day",
+        desc: "A celebratory website created for an Independence Day themed experience.",
+        link: "https://indepence-day.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
         title: "Paras Resort Management",
         desc: "A resort management platform with booking-style UI and structured admin-like management features.",
         link: "https://paras-resort.vercel.app/",
