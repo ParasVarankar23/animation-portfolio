@@ -43,7 +43,7 @@ const projects = [
     {
         title: "Independence Day",
         desc: "A celebratory website created for an Independence Day themed experience.",
-        link: "https://indepence-day.vercel.app/",
+        link: "https://indepence-day-two.vercel.app/",
         tag: "Creative Website",
     },
     {
