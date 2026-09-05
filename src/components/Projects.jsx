@@ -133,7 +133,7 @@ const projects = [
     {
         title: "Agastya Park",
         desc: "A modern website showcasing park information, facilities, and visitor-friendly content with an elegant interface.",
-        link: "https://agastya-park-maintance-tan.vercel.app/",
+        link: "https://agastya-park-maintenace-tan.vercel.app/",
         tag: "Business Website",
     },
     {
@@ -175,7 +175,7 @@ const projects = [
     {
         title: "Girlfriend Sorry",
         desc: "A heartfelt interactive website created to share a personal apology with thoughtful visuals and animations.",
-        link: "https://secret-website.vercel.app/",
+        link: "https://secret-website-alpha.vercel.app/",
         tag: "Love / Creative Website",
     },
     {
