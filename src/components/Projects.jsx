@@ -5,82 +5,10 @@ import { ArrowUpRight } from "lucide-react";
 
 const projects = [
     {
-        title: "Chatbot Frontend",
-        desc: "A WhatsApp-style fake messaging chatbot interface with a clean and interactive UI experience.",
-        link: "https://chatbot-frontend-beta-six.vercel.app/",
-        tag: "UI / Chat App",
-    },
-    {
-        title: "Hospityx Clinic Panel",
-        desc: "A management panel designed for a normal clinic with organized dashboard functionality and user flow.",
-        link: "https://hospityx-frontend.vercel.app/",
-        tag: "Dashboard / Clinic Panel",
-    },
-    {
-        title: "Ganpati Bappa Morya Website",
-        desc: "A festive and engaging website created to celebrate Ganpati with a polished visual experience.",
-        link: "https://ganpati-phi.vercel.app/",
-        tag: "Creative Website",
-    },
-    {
-        title: "Voom Paints Billing",
-        desc: "A billing interface for managing paint products, customer transactions, and business records.",
-        link: "https://voompaints-billing-ashy.vercel.app/",
-        tag: "Billing / Business Tool",
-    },
-    {
-        title: "Paras Caffee",
-        desc: "A welcoming cafe website designed to showcase the brand, offerings, and customer experience.",
-        link: "https://paras-caffee.vercel.app/",
-        tag: "Cafe Website",
-    },
-    {
-        title: "Varankar Buildings",
-        desc: "A professional business website presenting building and construction-related services.",
-        link: "https://varankar-buildings.vercel.app/",
+        title: "Agastya Park",
+        desc: "A modern website showcasing park information, facilities, and visitor-friendly content with an elegant interface.",
+        link: "https://agastya-park-maintenace-tan.vercel.app/",
         tag: "Business Website",
-    },
-    {
-        title: "Independence Day",
-        desc: "A celebratory website created for an Independence Day themed experience.",
-        link: "https://indepence-day-two.vercel.app/",
-        tag: "Creative Website",
-    },
-    {
-        title: "Paras Resort Management",
-        desc: "A resort management platform with booking-style UI and structured admin-like management features.",
-        link: "https://paras-resort.vercel.app/",
-        tag: "Management System",
-    },
-    {
-        title: "Personal Portfolio",
-        desc: "A modern portfolio website showcasing projects, experience, and frontend development skills.",
-        link: "https://portfolio-vuiw.vercel.app/",
-        tag: "Portfolio",
-    },
-    {
-        title: "SNK College Website",
-        desc: "A responsive and informative college website with multiple academic and institutional sections.",
-        link: "https://snk-college.vercel.app/",
-        tag: "Educational Website",
-    },
-    {
-        title: "Product Expiry Tracker",
-        desc: "A product expiry monitoring platform for tracking expiry-related data in an organized way.",
-        link: "https://product-expiry-frontend.vercel.app/",
-        tag: "Utility / Tracker",
-    },
-    {
-        title: "UPSC Institute Platform",
-        desc: "A platform designed for UPSC institute-like use cases with educational and structured content sections.",
-        link: "https://upsc-frontend-rho.vercel.app/",
-        tag: "Institute Platform",
-    },
-    {
-        title: "SA Tours",
-        desc: "A travel and tour management website designed for showcasing tour packages, destinations, and booking-style experiences.",
-        link: "https://sa-tours.vercel.app/",
-        tag: "Travel / Tour Management",
     },
     {
         title: "Animation Portfolio",
@@ -89,34 +17,16 @@ const projects = [
         tag: "Animated Portfolio",
     },
     {
-        title: "Puzzle Game",
-        desc: "A modern sliding puzzle game with timer, move counter, best score tracking, and a clean responsive interface built with Next.js and Tailwind CSS.",
-        link: "https://puzzle-sandy-kappa.vercel.app/",
-        tag: "Game / Puzzle",
+        title: "Baby Ceremony",
+        desc: "A beautiful celebration website created for a baby ceremony with a warm and memorable presentation.",
+        link: "https://baby-cerenomy.vercel.app/",
+        tag: "Celebration Website",
     },
     {
-        title: "Rock Paper Scissors",
-        desc: "An interactive Rock Paper Scissors game where players challenge the computer with a smooth and responsive experience.",
-        link: "https://rockerpaperscissor.vercel.app/",
-        tag: "Game / Fun",
-    },
-    {
-        title: "Snake Game",
-        desc: "A classic Snake game featuring score tracking, responsive controls, and a modern web interface.",
-        link: "https://snake-game-one-orcin.vercel.app/",
-        tag: "Game / Arcade",
-    },
-    {
-        title: "Tic Tac Toe",
-        desc: "A simple and enjoyable Tic Tac Toe game with a clean design and two-player gameplay.",
-        link: "https://tictactoe-games-eight.vercel.app/",
-        tag: "Game / Board",
-    },
-    {
-        title: "Sister Birthday Website",
-        desc: "A personalized birthday website with beautiful animations and interactive elements for memorable celebrations.",
-        link: "https://sanvi-ivory.vercel.app/",
-        tag: "Creative Website",
+        title: "Chatbot Frontend",
+        desc: "A WhatsApp-style fake messaging chatbot interface with a clean and interactive UI experience.",
+        link: "https://chatbot-frontend-beta-six.vercel.app/",
+        tag: "UI / Chat App",
     },
     {
         title: "CodeSync Merge",
@@ -131,16 +41,16 @@ const projects = [
         tag: "Developer Tool / Editor",
     },
     {
-        title: "Agastya Park",
-        desc: "A modern website showcasing park information, facilities, and visitor-friendly content with an elegant interface.",
-        link: "https://agastya-park-maintenace-tan.vercel.app/",
-        tag: "Business Website",
+        title: "Friend Wishes Birthday",
+        desc: "A personalized birthday wishes website created to celebrate a friend with heartfelt messages and animations.",
+        link: "https://shrawan-khot.vercel.app/",
+        tag: "Birthday Website",
     },
     {
-        title: "Shree Morya",
-        desc: "A professionally designed responsive website built to showcase services and information with modern layouts.",
-        link: "https://shreemorya.vercel.app/",
-        tag: "Business Website",
+        title: "Ganpati Bappa Morya Website",
+        desc: "A festive and engaging website created to celebrate Ganpati with a polished visual experience.",
+        link: "https://ganpati-phi.vercel.app/",
+        tag: "Creative Website",
     },
     {
         title: "Girlfriend Birthday Wishes",
@@ -149,70 +59,16 @@ const projects = [
         tag: "Love / Creative Website",
     },
     {
-        title: "Krishna Janmala",
-        desc: "A devotional and celebratory website created for Krishna Janmala with an engaging visual experience.",
-        link: "https://krishna-janmala.vercel.app/",
-        tag: "Creative Website",
-    },
-    {
-        title: "Baby Ceremony",
-        desc: "A beautiful celebration website created for a baby ceremony with a warm and memorable presentation.",
-        link: "https://baby-cerenomy.vercel.app/",
-        tag: "Celebration Website",
-    },
-    {
-        title: "Home Ceremony",
-        desc: "A welcoming ceremony website designed to share special moments and celebration details.",
-        link: "https://home-cerenomy.vercel.app/",
-        tag: "Celebration Website",
-    },
-    {
-        title: "Wedding Ceremony",
-        desc: "An elegant wedding ceremony website designed for sharing wedding details and memorable moments.",
-        link: "https://wedding-cerenomy.vercel.app/",
-        tag: "Wedding Website",
-    },
-    {
-        title: "Girlfriend Sorry",
+        title: "Secret Apology Website",
         desc: "A heartfelt interactive website created to share a personal apology with thoughtful visuals and animations.",
         link: "https://secret-website-alpha.vercel.app/",
         tag: "Love / Creative Website",
     },
     {
-        title: "Girlfriend Sorry",
+        title: "Girlfriend Sorry Website",
         desc: "A heartfelt interactive website created to share a personal apology with thoughtful visuals and animations.",
         link: "https://girlfriend-sorry.vercel.app/",
         tag: "Love / Creative Website",
-    },
-    {
-        title: "Pawan Society",
-        desc: "A modern society website designed to share community information and services with visitors.",
-        link: "https://pawan-society.vercel.app/",
-        tag: "Society Website",
-    },
-    {
-        title: "Friend Wishes Birthday",
-        desc: "A personalized birthday wishes website created to celebrate a friend with heartfelt messages and animations.",
-        link: "https://shrawan-khot.vercel.app/",
-        tag: "Birthday Website",
-    },
-    {
-        title: "Wife Wishes Birthday",
-        desc: "A personalized birthday wishes website created for a wife with romantic messages and memorable interactions.",
-        link: "https://vedika-pilankar.vercel.app/",
-        tag: "Birthday Website",
-    },
-    {
-        title: "Shravan Portfolio",
-        desc: "A modern and responsive personal portfolio website showcasing skills, projects, and experience with clean layouts and interactive sections.",
-        link: "https://shravan-portfolio-mu.vercel.app/",
-        tag: "Portfolio Website",
-    },
-    {
-        title: "Vision Academy",
-        desc: "An educational platform designed for students and institutes, providing organized content, resources, and a user-friendly learning experience.",
-        link: "https://visionacademy-iota.vercel.app/",
-        tag: "Educational Platform",
     },
     {
         title: "Gym Management Platform",
@@ -221,15 +77,160 @@ const projects = [
         tag: "Fitness / Gym Website",
     },
     {
-        title: "PCACS Website",
-        desc: "A modern and responsive website inspired by Pillai College of Arts, Commerce & Science, featuring academic sections, course information, and an organized user experience.",
-        link: "https://pcacs.vercel.app/",
-        tag: "Educational Website",
-    }, {
+        title: "Home Ceremony",
+        desc: "A welcoming ceremony website designed to share special moments and celebration details.",
+        link: "https://home-cerenomy.vercel.app/",
+        tag: "Celebration Website",
+    },
+    {
+        title: "Hospityx Clinic Panel",
+        desc: "A management panel designed for a normal clinic with organized dashboard functionality and user flow.",
+        link: "https://hospityx-frontend.vercel.app/",
+        tag: "Dashboard / Clinic Panel",
+    },
+    {
+        title: "Independence Day",
+        desc: "A celebratory website created for an Independence Day themed experience.",
+        link: "https://indepence-day-two.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
         title: "Janhavi Beer Shop",
         desc: "A modern and elegant personal portfolio website showcasing skills, projects, achievements, and professional experience with responsive layouts and smooth interactions.",
         link: "https://janhavi-tau.vercel.app/",
         tag: "Portfolio Website",
+    },
+    {
+        title: "Krishna Janmala",
+        desc: "A devotional and celebratory website created for Krishna Janmala with an engaging visual experience.",
+        link: "https://krishna-janmala.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
+        title: "Paras Caffee",
+        desc: "A welcoming cafe website designed to showcase the brand, offerings, and customer experience.",
+        link: "https://paras-caffee.vercel.app/",
+        tag: "Cafe Website",
+    },
+    {
+        title: "Paras Resort Management",
+        desc: "A resort management platform with booking-style UI and structured admin-like management features.",
+        link: "https://paras-resort.vercel.app/",
+        tag: "Management System",
+    },
+    {
+        title: "Pawan Society",
+        desc: "A modern society website designed to share community information and services with visitors.",
+        link: "https://pawan-society.vercel.app/",
+        tag: "Society Website",
+    },
+    {
+        title: "PCACS Website",
+        desc: "A modern and responsive website inspired by Pillai College of Arts, Commerce & Science, featuring academic sections, course information, and an organized user experience.",
+        link: "https://pcacs.vercel.app/",
+        tag: "Educational Website",
+    },
+    {
+        title: "Personal Portfolio",
+        desc: "A modern portfolio website showcasing projects, experience, and frontend development skills.",
+        link: "https://portfolio-vuiw.vercel.app/",
+        tag: "Portfolio",
+    },
+    {
+        title: "Product Expiry Tracker",
+        desc: "A product expiry monitoring platform for tracking expiry-related data in an organized way.",
+        link: "https://product-expiry-frontend.vercel.app/",
+        tag: "Utility / Tracker",
+    },
+    {
+        title: "Puzzle Game",
+        desc: "A modern sliding puzzle game with timer, move counter, best score tracking, and a clean responsive interface built with Next.js and Tailwind CSS.",
+        link: "https://puzzle-sandy-kappa.vercel.app/",
+        tag: "Game / Puzzle",
+    },
+    {
+        title: "Rock Paper Scissors",
+        desc: "An interactive Rock Paper Scissors game where players challenge the computer with a smooth and responsive experience.",
+        link: "https://rockerpaperscissor.vercel.app/",
+        tag: "Game / Fun",
+    },
+    {
+        title: "SA Tours",
+        desc: "A travel and tour management website designed for showcasing tour packages, destinations, and booking-style experiences.",
+        link: "https://sa-tours.vercel.app/",
+        tag: "Travel / Tour Management",
+    },
+    {
+        title: "Shree Morya",
+        desc: "A professionally designed responsive website built to showcase services and information with modern layouts.",
+        link: "https://shreemorya.vercel.app/",
+        tag: "Business Website",
+    },
+    {
+        title: "Shravan Portfolio",
+        desc: "A modern and responsive personal portfolio website showcasing skills, projects, and experience with clean layouts and interactive sections.",
+        link: "https://shravan-portfolio-mu.vercel.app/",
+        tag: "Portfolio Website",
+    },
+    {
+        title: "Sister Birthday Website",
+        desc: "A personalized birthday website with beautiful animations and interactive elements for memorable celebrations.",
+        link: "https://sanvi-ivory.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
+        title: "Snake Game",
+        desc: "A classic Snake game featuring score tracking, responsive controls, and a modern web interface.",
+        link: "https://snake-game-one-orcin.vercel.app/",
+        tag: "Game / Arcade",
+    },
+    {
+        title: "SNK College Website",
+        desc: "A responsive and informative college website with multiple academic and institutional sections.",
+        link: "https://snk-college.vercel.app/",
+        tag: "Educational Website",
+    },
+    {
+        title: "Tic Tac Toe",
+        desc: "A simple and enjoyable Tic Tac Toe game with a clean design and two-player gameplay.",
+        link: "https://tictactoe-games-eight.vercel.app/",
+        tag: "Game / Board",
+    },
+    {
+        title: "UPSC Institute Platform",
+        desc: "A platform designed for UPSC institute-like use cases with educational and structured content sections.",
+        link: "https://upsc-frontend-rho.vercel.app/",
+        tag: "Institute Platform",
+    },
+    {
+        title: "Varankar Buildings",
+        desc: "A professional business website presenting building and construction-related services.",
+        link: "https://varankar-buildings.vercel.app/",
+        tag: "Business Website",
+    },
+    {
+        title: "Vision Academy",
+        desc: "An educational platform designed for students and institutes, providing organized content, resources, and a user-friendly learning experience.",
+        link: "https://visionacademy-iota.vercel.app/",
+        tag: "Educational Platform",
+    },
+    {
+        title: "Voom Paints Billing",
+        desc: "A billing interface for managing paint products, customer transactions, and business records.",
+        link: "https://voompaints-billing-ashy.vercel.app/",
+        tag: "Billing / Business Tool",
+    },
+    {
+        title: "Wedding Ceremony",
+        desc: "An elegant wedding ceremony website designed for sharing wedding details and memorable moments.",
+        link: "https://wedding-cerenomy.vercel.app/",
+        tag: "Wedding Website",
+    },
+    {
+        title: "Wife Wishes Birthday",
+        desc: "A personalized birthday wishes website created for a wife with romantic messages and memorable interactions.",
+        link: "https://vedika-pilankar.vercel.app/",
+        tag: "Birthday Website",
     },
 ];
 
@@ -268,7 +269,7 @@ export default function Projects() {
                 <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-6 mt-12">
                     {projects.map((project, index) => (
                         <motion.a
-                            key={index}
+                            key={project.link}
                             href={project.link}
                             target="_blank"
                             rel="noopener noreferrer"
