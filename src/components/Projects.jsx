@@ -133,7 +133,7 @@ const projects = [
     {
         title: "Agastya Park",
         desc: "A modern website showcasing park information, facilities, and visitor-friendly content with an elegant interface.",
-        link: "https://agastya-park.vercel.app/",
+        link: "https://agastya-park-maintance-tan.vercel.app/",
         tag: "Business Website",
     },
     {
@@ -147,6 +147,60 @@ const projects = [
         desc: "A beautifully designed romantic website featuring heartfelt messages, interactive elements, and elegant animations.",
         link: "https://girlfriend-wishes.vercel.app/",
         tag: "Love / Creative Website",
+    },
+    {
+        title: "Krishna Janmala",
+        desc: "A devotional and celebratory website created for Krishna Janmala with an engaging visual experience.",
+        link: "https://krishna-janmala.vercel.app/",
+        tag: "Creative Website",
+    },
+    {
+        title: "Baby Ceremony",
+        desc: "A beautiful celebration website created for a baby ceremony with a warm and memorable presentation.",
+        link: "https://baby-cerenomy.vercel.app/",
+        tag: "Celebration Website",
+    },
+    {
+        title: "Home Ceremony",
+        desc: "A welcoming ceremony website designed to share special moments and celebration details.",
+        link: "https://home-cerenomy.vercel.app/",
+        tag: "Celebration Website",
+    },
+    {
+        title: "Wedding Ceremony",
+        desc: "An elegant wedding ceremony website designed for sharing wedding details and memorable moments.",
+        link: "https://wedding-cerenomy.vercel.app/",
+        tag: "Wedding Website",
+    },
+    {
+        title: "Girlfriend Sorry",
+        desc: "A heartfelt interactive website created to share a personal apology with thoughtful visuals and animations.",
+        link: "https://secret-website.vercel.app/",
+        tag: "Love / Creative Website",
+    },
+    {
+        title: "Girlfriend Sorry",
+        desc: "A heartfelt interactive website created to share a personal apology with thoughtful visuals and animations.",
+        link: "https://girlfriend-sorry.vercel.app/",
+        tag: "Love / Creative Website",
+    },
+    {
+        title: "Pawan Society",
+        desc: "A modern society website designed to share community information and services with visitors.",
+        link: "https://pawan-society.vercel.app/",
+        tag: "Society Website",
+    },
+    {
+        title: "Friend Wishes Birthday",
+        desc: "A personalized birthday wishes website created to celebrate a friend with heartfelt messages and animations.",
+        link: "https://shrawan-khot.vercel.app/",
+        tag: "Birthday Website",
+    },
+    {
+        title: "Wife Wishes Birthday",
+        desc: "A personalized birthday wishes website created for a wife with romantic messages and memorable interactions.",
+        link: "https://vedika-pilankar.vercel.app/",
+        tag: "Birthday Website",
     },
     {
         title: "Shravan Portfolio",
